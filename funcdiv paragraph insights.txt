@@ -1,0 +1,37 @@
+I think your Discussion is a good start. It seems like it might be strengthened by a paragraph that discusses your approach in general, and how it may provide an alternative to understanding disturbance- C storage relationships by other means. It seems it might also be useful to bring in some of the literature on trait-based modeling in general, with some discussion on replacing fixed PFT parameters with traits that may vary with the environment, some of which is discussed in the Wullshleger article,
+
+7) functional trait literature discussion paragraph, advantages of trait based modeling in general, for disturabnce- c storage relationships in particular
+- jonsson and wardle, funcdiv lit, eugenie abstract
+
+existing points in the discussion
+
+plant functional types are the old fd approach- they have problems
+idspp analysis show diffs within pfts, different above-belowground responses, 
+different implications for a species depending on the community in which occurs
+
+random notes/thoughts for this paragraph:
+- so based on the advantages of trait/idspp based approaches, it is problmeatic that we still rely on pfts to incorporate plant diversity into ecosystem models- for the most part, dynamic vegetation models
+
+wullschleger crap- failure to represent biotic interactions, land surfaces processes introduces heterogeniety
+
+this is a particularly big deal for high latitude ecosystems
+	- lots of carbon
+	- rapid responses to warming with novel disturbances like lake drying
+	- rapid observed and predicted changes in vegetation- biomes on the edge of their climatic envelopes
+		- so big stakes, and an urgent need.
+	- as our results indicate- woodiness related traits- transition between woody and non woody veg help predict OLT- carbon stocks.
+		
+how could this type of study help
+1) growing desire to explicitly represent plant functional traits in ecosystem models. 
+
+1) identify important areas for greater detail- models can only accomodate so much complexity- this type of study can help pinpoint traits that should be focused on- either on their own or as suites of traits represented by idiosyncratic species. - idiosyncratic species are an efficient way to pick individual species to track/model/use as benchmarks for success for particular variables. - picking out nitrogen fixing alders among deciduous shrubs. inclusion of these kinds of traits better for simulating things like floating mat development/paludification. 
+
+2) high-res veg distribution data- gives you a sense of the spatial heterogeneity you are trying to model. 
+
+our study highlights some of the challenges of this approach- not all disturbances are equally responsive to functional diversity, the importance of specific traits vs. functional divergence changes with the structure/composition of a community- need to consider species-specific disturbance responses
+
+also highlights the need- biotic/abiotic drivers of above/belowground C do not operate independtly. - shows complexity within communities- not monolithic - specific species and traits can be important- treating communities as the same, or treating all species within a pft as functionally equivalnet can be dangerously misleading. ecohydrology/novel disturbances have important and distinct effects. 
+
+Can also provide a good target/validation- relationships between diversity and C are context-dependent- rather than trying to validate speicific pools, model output could be fit to our analytical framework to compare its ability to reproduce covariance/relationships- ensure that it is simultaneously reproudcing disturbance and diversity effects faithfully.
+
+summarize trait-based modeling efforts in one or two sentences.  

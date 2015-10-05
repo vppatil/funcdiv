@@ -1,0 +1,12 @@
+Table/figure reording based on eugenie's comments
+
+Table 1- complete variable list- 
+Fig. 1a,b- conceptual diagrams
+Table 2- summary values.
+Idspp pca- Fig. Appendix 1.
+Table3- bivariate lms
+Table 4- model percentvarexp for rf models of AGB and OLT
+Table 5- varimp for idspp models.
+Fig. 2- agb sem
+Table 6- influence direct/indirect summary
+Fig. 3- olt sem
